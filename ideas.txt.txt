@@ -1,0 +1,2 @@
+ Learn Git commands
+- Try a mini HTML project
